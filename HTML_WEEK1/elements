@@ -1,0 +1,4 @@
+elements =>tags, attributes and content
+tags - define elements <>
+<tagname>
+</tagname>
